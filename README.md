@@ -23,6 +23,7 @@ This repository serves as a portfolio and learning journal as I transition into 
 | 011 | [Rectangle Calculator](./011-rectangle-calculator/) | geometry formulas |
 | 012 | [Divisibility Checker](./012-divisibility-checker/) | modulo, even/odd checking |
 | 013 | [Operators Reference](./013-operators-reference/) | arithmetic, comparison, list operators |
+| 014 | [Treasure Island Game](./014-treasure-island-game/) | nested conditionals, input handling, game logic |
 
 ## Skills Progression
 
